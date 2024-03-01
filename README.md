@@ -1,4 +1,9 @@
+## Getting the error
 
+```shell
+npm install renovate
+LOG_LEVEL=debug npx renovate --platform=local
+```
 
 ## Getting past the error
 
