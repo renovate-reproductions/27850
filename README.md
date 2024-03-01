@@ -1,7 +1,7 @@
 ## Getting the error
 
 ```shell
-npm install renovate
+npm install -g renovate
 LOG_LEVEL=debug npx renovate --platform=local
 ```
 
